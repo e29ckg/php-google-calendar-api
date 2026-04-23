@@ -1,0 +1,9 @@
+[2026-04-23 20:00:58] IP: ::1 | API: /php-google-calendar-api/api_create_event.php | Status: FAILED | Message: Invalid or Missing API Key
+[2026-04-23 20:03:20] IP: ::1 | API: /php-google-calendar-api/api_create_event.php | Status: FAILED | Message: Invalid or Missing API Key
+[2026-04-23 20:05:53] IP: ::1 | API: /php-google-calendar-api/api_create_event.php | Status: SUCCESS | Message: Authorized Access
+[2026-04-23 20:09:47] IP: ::1 | API: /php-google-calendar-api/api_create_event.php | Status: SUCCESS | Message: Authorized Access
+[2026-04-23 20:11:02] IP: ::1 | API: /php-google-calendar-api/api_get_events.php | Status: SUCCESS | Message: Authorized Access
+[2026-04-23 20:18:35] IP: ::1 | API: /php-google-calendar-api/api_create_event.php | Status: SUCCESS | Message: Authorized Access
+[2026-04-23 20:19:11] IP: ::1 | API: /php-google-calendar-api/api_get_events.php | Status: SUCCESS | Message: Authorized Access
+[2026-04-23 20:20:12] IP: ::1 | API: /php-google-calendar-api/api_get_events.php | Status: SUCCESS | Message: Authorized Access
+[2026-04-23 20:20:18] IP: ::1 | API: /php-google-calendar-api/api_get_events.php | Status: SUCCESS | Message: Authorized Access

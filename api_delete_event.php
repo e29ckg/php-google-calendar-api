@@ -1,9 +1,5 @@
 <?php
-// ตั้งค่า Header ให้เป็นรูปแบบ API (JSON)
-header("Access-Control-Allow-Origin: *");
-header("Content-Type: application/json; charset=UTF-8");
-header("Access-Control-Allow-Methods: POST");
-
+require __DIR__ . '/api_auth.php';
 require __DIR__ . '/vendor/autoload.php';
 
 use Google\Client;
